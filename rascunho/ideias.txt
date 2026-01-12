@@ -1,1 +1,1 @@
-Ideia de app milionario
+App de entrega de comida com drone
