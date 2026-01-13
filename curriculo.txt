@@ -1,0 +1,5 @@
+Habilidades:
+- Git e Github
+- Resolver Conflitos
+- Branches
+- Pull Requests
